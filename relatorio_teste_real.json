@@ -1,0 +1,100 @@
+{
+  "app_exceptions": [],
+  "widgets": {
+    "buttons": 2,
+    "selectboxes": 4,
+    "radios": 1,
+    "dataframes": 22
+  },
+  "dataset_shape": [
+    624,
+    13
+  ],
+  "csv_shape": [
+    624,
+    13
+  ],
+  "excel_bytes": 7595,
+  "results": [
+    {
+      "produto": "Pão francês",
+      "historico_semanas": 26,
+      "demanda_ultima": 967,
+      "tendencia": "estável",
+      "cv": 0.0747,
+      "modelo_vencedor": "Suavização exponencial simples",
+      "mae": 63.84,
+      "mape": 6.98,
+      "precisao": 93.02,
+      "previsao_4_sem": [
+        914.19,
+        914.19,
+        914.19,
+        914.19
+      ],
+      "anomalias": 1,
+      "sazonalidade_linhas": 4,
+      "recomendacao": "A demanda está relativamente estável. A previsão pode ser usada como referência para manter um ritmo produtivo próximo ao histórico. A média prevista está próxima da média histórica, sugerindo ajustes moderados no planejamento. A capacidade informada aparenta ser suficiente para cobrir a previsão, mantendo acompanhamento semanal. Sugestão de reposição/produção para o horizonte escolhido: aproximadamente 3597 unidades, considerando estoque atual e estoque de segurança informados. Foram detectadas"
+    },
+    {
+      "produto": "Marmita executiva",
+      "historico_semanas": 26,
+      "demanda_ultima": 348,
+      "tendencia": "estável",
+      "cv": 0.0878,
+      "modelo_vencedor": "Suavização exponencial simples",
+      "mae": 18.45,
+      "mape": 6.07,
+      "precisao": 93.93,
+      "previsao_4_sem": [
+        310.22,
+        310.22,
+        310.22,
+        310.22
+      ],
+      "anomalias": 2,
+      "sazonalidade_linhas": 4,
+      "recomendacao": "A demanda está relativamente estável. A previsão pode ser usada como referência para manter um ritmo produtivo próximo ao histórico. A média prevista está próxima da média histórica, sugerindo ajustes moderados no planejamento. A capacidade informada aparenta ser suficiente para cobrir a previsão, mantendo acompanhamento semanal. Sugestão de reposição/produção para o horizonte escolhido: aproximadamente 1231 unidades, considerando estoque atual e estoque de segurança informados. Foram detectadas"
+    },
+    {
+      "produto": "Água mineral",
+      "historico_semanas": 26,
+      "demanda_ultima": 374,
+      "tendencia": "estável",
+      "cv": 0.0899,
+      "modelo_vencedor": "Suavização exponencial simples",
+      "mae": 26.43,
+      "mape": 7.48,
+      "precisao": 92.52,
+      "previsao_4_sem": [
+        352.73,
+        352.73,
+        352.73,
+        352.73
+      ],
+      "anomalias": 1,
+      "sazonalidade_linhas": 4,
+      "recomendacao": "A demanda está relativamente estável. A previsão pode ser usada como referência para manter um ritmo produtivo próximo ao histórico. A média prevista está próxima da média histórica, sugerindo ajustes moderados no planejamento. A capacidade informada aparenta ser suficiente para cobrir a previsão, mantendo acompanhamento semanal. Sugestão de reposição/produção para o horizonte escolhido: aproximadamente 1381 unidades, considerando estoque atual e estoque de segurança informados. Foram detectadas"
+    },
+    {
+      "produto": "Bolo caseiro",
+      "historico_semanas": 26,
+      "demanda_ultima": 118,
+      "tendencia": "estável",
+      "cv": 0.0962,
+      "modelo_vencedor": "Suavização exponencial simples",
+      "mae": 8.97,
+      "mape": 8.34,
+      "precisao": 91.66,
+      "previsao_4_sem": [
+        106.59,
+        106.59,
+        106.59,
+        106.59
+      ],
+      "anomalias": 2,
+      "sazonalidade_linhas": 4,
+      "recomendacao": "A demanda está relativamente estável. A previsão pode ser usada como referência para manter um ritmo produtivo próximo ao histórico. A média prevista está próxima da média histórica, sugerindo ajustes moderados no planejamento. A capacidade informada aparenta ser suficiente para cobrir a previsão, mantendo acompanhamento semanal. Sugestão de reposição/produção para o horizonte escolhido: aproximadamente 419 unidades, considerando estoque atual e estoque de segurança informados. Foram detectadas "
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+DEBUG E TESTE COM DADOS REALISTAS - Demanda+
+
+Data do teste: 30/06/2026
+Base utilizada: comércio de bairro com 624 registros, 26 semanas, 8 produtos e 3 regiões.
+Produtos avaliados: Pão francês, Marmita executiva, Água mineral e Bolo caseiro.
+
+Verificações realizadas:
+- Compilação do app.py: aprovado.
+- Inicialização com Streamlit AppTest: aprovado, 0 exceções críticas.
+- Renderização dos principais componentes: aprovado.
+- Leitura de CSV: aprovado.
+- Exportação Excel via openpyxl: aprovado.
+- Comparação de modelos: aprovado.
+- Métricas de erro: aprovado.
+- Detecção de anomalias: aprovado.
+- Análise de sazonalidade: aprovado.
+- Recomendação gerencial: aprovado.
+
+Correção aplicada:
+- Substituído use_container_width=True por width="stretch" para evitar alerta futuro do Streamlit.
+
+Conclusão:
+O aplicativo permaneceu funcional e coerente para o cenário hipotético testado.

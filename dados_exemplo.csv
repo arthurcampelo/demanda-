@@ -1,0 +1,625 @@
+Semana,Produto,Categoria,Regiao,Demanda,Preco,CustoUnitario,EstoqueAtual,EstoqueMinimo,CapacidadeSemanal,Promocao,Feriado,Evento
+1,Pão francês,Padaria,Centro,405,0.75,0.42,180,120,1050,0,0,Rotina
+1,Pão francês,Padaria,Bairro,287,0.75,0.42,180,120,1050,0,0,Rotina
+1,Pão francês,Padaria,Delivery,152,0.75,0.42,180,120,1050,0,0,Rotina
+2,Pão francês,Padaria,Centro,399,0.75,0.42,180,120,1050,0,0,Rotina
+2,Pão francês,Padaria,Bairro,282,0.75,0.42,180,120,1050,0,0,Rotina
+2,Pão francês,Padaria,Delivery,150,0.75,0.42,180,120,1050,0,0,Rotina
+3,Pão francês,Padaria,Centro,392,0.75,0.42,180,120,1050,0,0,Rotina
+3,Pão francês,Padaria,Bairro,278,0.75,0.42,180,120,1050,0,0,Rotina
+3,Pão francês,Padaria,Delivery,147,0.75,0.42,180,120,1050,0,0,Rotina
+4,Pão francês,Padaria,Centro,500,0.75,0.42,180,120,1050,1,0,Promoção de inauguração
+4,Pão francês,Padaria,Bairro,354,0.75,0.42,180,120,1050,1,0,Promoção de inauguração
+4,Pão francês,Padaria,Delivery,188,0.75,0.42,180,120,1050,1,0,Promoção de inauguração
+5,Pão francês,Padaria,Centro,394,0.75,0.42,180,120,1050,0,0,Rotina
+5,Pão francês,Padaria,Bairro,279,0.75,0.42,180,120,1050,0,0,Rotina
+5,Pão francês,Padaria,Delivery,148,0.75,0.42,180,120,1050,0,0,Rotina
+6,Pão francês,Padaria,Centro,407,0.75,0.42,180,120,1050,0,0,Rotina
+6,Pão francês,Padaria,Bairro,289,0.75,0.42,180,120,1050,0,0,Rotina
+6,Pão francês,Padaria,Delivery,153,0.75,0.42,180,120,1050,0,0,Rotina
+7,Pão francês,Padaria,Centro,401,0.75,0.42,180,120,1050,0,0,Rotina
+7,Pão francês,Padaria,Bairro,284,0.75,0.42,180,120,1050,0,0,Rotina
+7,Pão francês,Padaria,Delivery,150,0.75,0.42,180,120,1050,0,0,Rotina
+8,Pão francês,Padaria,Centro,485,0.75,0.42,180,120,1050,0,1,Feriado local
+8,Pão francês,Padaria,Bairro,344,0.75,0.42,180,120,1050,0,1,Feriado local
+8,Pão francês,Padaria,Delivery,182,0.75,0.42,180,120,1050,0,1,Feriado local
+9,Pão francês,Padaria,Centro,387,0.75,0.42,180,120,1050,0,0,Rotina
+9,Pão francês,Padaria,Bairro,274,0.75,0.42,180,120,1050,0,0,Rotina
+9,Pão francês,Padaria,Delivery,145,0.75,0.42,180,120,1050,0,0,Rotina
+10,Pão francês,Padaria,Centro,396,0.75,0.42,180,120,1050,0,0,Rotina
+10,Pão francês,Padaria,Bairro,280,0.75,0.42,180,120,1050,0,0,Rotina
+10,Pão francês,Padaria,Delivery,148,0.75,0.42,180,120,1050,0,0,Rotina
+11,Pão francês,Padaria,Centro,409,0.75,0.42,180,120,1050,0,0,Rotina
+11,Pão francês,Padaria,Bairro,290,0.75,0.42,180,120,1050,0,0,Rotina
+11,Pão francês,Padaria,Delivery,154,0.75,0.42,180,120,1050,0,0,Rotina
+12,Pão francês,Padaria,Centro,443,0.75,0.42,180,120,1050,0,0,Evento escolar
+12,Pão francês,Padaria,Bairro,314,0.75,0.42,180,120,1050,0,0,Evento escolar
+12,Pão francês,Padaria,Delivery,166,0.75,0.42,180,120,1050,0,0,Evento escolar
+13,Pão francês,Padaria,Centro,396,0.75,0.42,180,120,1050,0,0,Rotina
+13,Pão francês,Padaria,Bairro,280,0.75,0.42,180,120,1050,0,0,Rotina
+13,Pão francês,Padaria,Delivery,148,0.75,0.42,180,120,1050,0,0,Rotina
+14,Pão francês,Padaria,Centro,425,0.75,0.42,180,120,1050,0,0,Rotina
+14,Pão francês,Padaria,Bairro,301,0.75,0.42,180,120,1050,0,0,Rotina
+14,Pão francês,Padaria,Delivery,159,0.75,0.42,180,120,1050,0,0,Rotina
+15,Pão francês,Padaria,Centro,397,0.75,0.42,180,120,1050,0,0,Rotina
+15,Pão francês,Padaria,Bairro,282,0.75,0.42,180,120,1050,0,0,Rotina
+15,Pão francês,Padaria,Delivery,149,0.75,0.42,180,120,1050,0,0,Rotina
+16,Pão francês,Padaria,Centro,452,0.75,0.42,180,120,1050,0,0,Rotina
+16,Pão francês,Padaria,Bairro,320,0.75,0.42,180,120,1050,0,0,Rotina
+16,Pão francês,Padaria,Delivery,170,0.75,0.42,180,120,1050,0,0,Rotina
+17,Pão francês,Padaria,Centro,404,0.75,0.42,180,120,1050,0,0,Rotina
+17,Pão francês,Padaria,Bairro,286,0.75,0.42,180,120,1050,0,0,Rotina
+17,Pão francês,Padaria,Delivery,152,0.75,0.42,180,120,1050,0,0,Rotina
+18,Pão francês,Padaria,Centro,469,0.75,0.42,180,120,1050,1,0,Promoção relâmpago
+18,Pão francês,Padaria,Bairro,332,0.75,0.42,180,120,1050,1,0,Promoção relâmpago
+18,Pão francês,Padaria,Delivery,176,0.75,0.42,180,120,1050,1,0,Promoção relâmpago
+19,Pão francês,Padaria,Centro,427,0.75,0.42,180,120,1050,0,0,Rotina
+19,Pão francês,Padaria,Bairro,303,0.75,0.42,180,120,1050,0,0,Rotina
+19,Pão francês,Padaria,Delivery,160,0.75,0.42,180,120,1050,0,0,Rotina
+20,Pão francês,Padaria,Centro,441,0.75,0.42,180,120,1050,0,0,Rotina
+20,Pão francês,Padaria,Bairro,313,0.75,0.42,180,120,1050,0,0,Rotina
+20,Pão francês,Padaria,Delivery,165,0.75,0.42,180,120,1050,0,0,Rotina
+21,Pão francês,Padaria,Centro,413,0.75,0.42,180,120,1050,0,0,Rotina
+21,Pão francês,Padaria,Bairro,293,0.75,0.42,180,120,1050,0,0,Rotina
+21,Pão francês,Padaria,Delivery,155,0.75,0.42,180,120,1050,0,0,Rotina
+22,Pão francês,Padaria,Centro,406,0.75,0.42,180,120,1050,0,0,Semana de pagamento
+22,Pão francês,Padaria,Bairro,287,0.75,0.42,180,120,1050,0,0,Semana de pagamento
+22,Pão francês,Padaria,Delivery,152,0.75,0.42,180,120,1050,0,0,Semana de pagamento
+23,Pão francês,Padaria,Centro,436,0.75,0.42,180,120,1050,0,0,Rotina
+23,Pão francês,Padaria,Bairro,309,0.75,0.42,180,120,1050,0,0,Rotina
+23,Pão francês,Padaria,Delivery,164,0.75,0.42,180,120,1050,0,0,Rotina
+24,Pão francês,Padaria,Centro,472,0.75,0.42,180,120,1050,0,0,Rotina
+24,Pão francês,Padaria,Bairro,334,0.75,0.42,180,120,1050,0,0,Rotina
+24,Pão francês,Padaria,Delivery,177,0.75,0.42,180,120,1050,0,0,Rotina
+25,Pão francês,Padaria,Centro,401,0.75,0.42,180,120,1050,0,0,Rotina
+25,Pão francês,Padaria,Bairro,284,0.75,0.42,180,120,1050,0,0,Rotina
+25,Pão francês,Padaria,Delivery,150,0.75,0.42,180,120,1050,0,0,Rotina
+26,Pão francês,Padaria,Centro,464,0.75,0.42,180,120,1050,0,1,Festa junina
+26,Pão francês,Padaria,Bairro,329,0.75,0.42,180,120,1050,0,1,Festa junina
+26,Pão francês,Padaria,Delivery,174,0.75,0.42,180,120,1050,0,1,Festa junina
+1,Bolo caseiro,Padaria,Centro,45,18.0,9.5,22,15,140,0,0,Rotina
+1,Bolo caseiro,Padaria,Bairro,32,18.0,9.5,22,15,140,0,0,Rotina
+1,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+2,Bolo caseiro,Padaria,Centro,44,18.0,9.5,22,15,140,0,0,Rotina
+2,Bolo caseiro,Padaria,Bairro,31,18.0,9.5,22,15,140,0,0,Rotina
+2,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+3,Bolo caseiro,Padaria,Centro,48,18.0,9.5,22,15,140,0,0,Rotina
+3,Bolo caseiro,Padaria,Bairro,34,18.0,9.5,22,15,140,0,0,Rotina
+3,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+4,Bolo caseiro,Padaria,Centro,61,18.0,9.5,22,15,140,1,0,Promoção de inauguração
+4,Bolo caseiro,Padaria,Bairro,43,18.0,9.5,22,15,140,1,0,Promoção de inauguração
+4,Bolo caseiro,Padaria,Delivery,23,18.0,9.5,22,15,140,1,0,Promoção de inauguração
+5,Bolo caseiro,Padaria,Centro,44,18.0,9.5,22,15,140,0,0,Rotina
+5,Bolo caseiro,Padaria,Bairro,31,18.0,9.5,22,15,140,0,0,Rotina
+5,Bolo caseiro,Padaria,Delivery,16,18.0,9.5,22,15,140,0,0,Rotina
+6,Bolo caseiro,Padaria,Centro,45,18.0,9.5,22,15,140,0,0,Rotina
+6,Bolo caseiro,Padaria,Bairro,32,18.0,9.5,22,15,140,0,0,Rotina
+6,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+7,Bolo caseiro,Padaria,Centro,45,18.0,9.5,22,15,140,0,0,Rotina
+7,Bolo caseiro,Padaria,Bairro,32,18.0,9.5,22,15,140,0,0,Rotina
+7,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+8,Bolo caseiro,Padaria,Centro,59,18.0,9.5,22,15,140,0,1,Feriado local
+8,Bolo caseiro,Padaria,Bairro,42,18.0,9.5,22,15,140,0,1,Feriado local
+8,Bolo caseiro,Padaria,Delivery,22,18.0,9.5,22,15,140,0,1,Feriado local
+9,Bolo caseiro,Padaria,Centro,47,18.0,9.5,22,15,140,0,0,Rotina
+9,Bolo caseiro,Padaria,Bairro,33,18.0,9.5,22,15,140,0,0,Rotina
+9,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+10,Bolo caseiro,Padaria,Centro,44,18.0,9.5,22,15,140,0,0,Rotina
+10,Bolo caseiro,Padaria,Bairro,31,18.0,9.5,22,15,140,0,0,Rotina
+10,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+11,Bolo caseiro,Padaria,Centro,46,18.0,9.5,22,15,140,0,0,Rotina
+11,Bolo caseiro,Padaria,Bairro,32,18.0,9.5,22,15,140,0,0,Rotina
+11,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+12,Bolo caseiro,Padaria,Centro,54,18.0,9.5,22,15,140,0,0,Evento escolar
+12,Bolo caseiro,Padaria,Bairro,38,18.0,9.5,22,15,140,0,0,Evento escolar
+12,Bolo caseiro,Padaria,Delivery,20,18.0,9.5,22,15,140,0,0,Evento escolar
+13,Bolo caseiro,Padaria,Centro,48,18.0,9.5,22,15,140,0,0,Rotina
+13,Bolo caseiro,Padaria,Bairro,34,18.0,9.5,22,15,140,0,0,Rotina
+13,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+14,Bolo caseiro,Padaria,Centro,47,18.0,9.5,22,15,140,0,0,Rotina
+14,Bolo caseiro,Padaria,Bairro,34,18.0,9.5,22,15,140,0,0,Rotina
+14,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+15,Bolo caseiro,Padaria,Centro,44,18.0,9.5,22,15,140,0,0,Rotina
+15,Bolo caseiro,Padaria,Bairro,31,18.0,9.5,22,15,140,0,0,Rotina
+15,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+16,Bolo caseiro,Padaria,Centro,50,18.0,9.5,22,15,140,0,0,Rotina
+16,Bolo caseiro,Padaria,Bairro,36,18.0,9.5,22,15,140,0,0,Rotina
+16,Bolo caseiro,Padaria,Delivery,19,18.0,9.5,22,15,140,0,0,Rotina
+17,Bolo caseiro,Padaria,Centro,49,18.0,9.5,22,15,140,0,0,Rotina
+17,Bolo caseiro,Padaria,Bairro,35,18.0,9.5,22,15,140,0,0,Rotina
+17,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+18,Bolo caseiro,Padaria,Centro,57,18.0,9.5,22,15,140,1,0,Promoção relâmpago
+18,Bolo caseiro,Padaria,Bairro,40,18.0,9.5,22,15,140,1,0,Promoção relâmpago
+18,Bolo caseiro,Padaria,Delivery,21,18.0,9.5,22,15,140,1,0,Promoção relâmpago
+19,Bolo caseiro,Padaria,Centro,48,18.0,9.5,22,15,140,0,0,Rotina
+19,Bolo caseiro,Padaria,Bairro,34,18.0,9.5,22,15,140,0,0,Rotina
+19,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+20,Bolo caseiro,Padaria,Centro,49,18.0,9.5,22,15,140,0,0,Rotina
+20,Bolo caseiro,Padaria,Bairro,35,18.0,9.5,22,15,140,0,0,Rotina
+20,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+21,Bolo caseiro,Padaria,Centro,50,18.0,9.5,22,15,140,0,0,Rotina
+21,Bolo caseiro,Padaria,Bairro,36,18.0,9.5,22,15,140,0,0,Rotina
+21,Bolo caseiro,Padaria,Delivery,19,18.0,9.5,22,15,140,0,0,Rotina
+22,Bolo caseiro,Padaria,Centro,49,18.0,9.5,22,15,140,0,0,Semana de pagamento
+22,Bolo caseiro,Padaria,Bairro,35,18.0,9.5,22,15,140,0,0,Semana de pagamento
+22,Bolo caseiro,Padaria,Delivery,19,18.0,9.5,22,15,140,0,0,Semana de pagamento
+23,Bolo caseiro,Padaria,Centro,49,18.0,9.5,22,15,140,0,0,Rotina
+23,Bolo caseiro,Padaria,Bairro,34,18.0,9.5,22,15,140,0,0,Rotina
+23,Bolo caseiro,Padaria,Delivery,18,18.0,9.5,22,15,140,0,0,Rotina
+24,Bolo caseiro,Padaria,Centro,53,18.0,9.5,22,15,140,0,0,Rotina
+24,Bolo caseiro,Padaria,Bairro,37,18.0,9.5,22,15,140,0,0,Rotina
+24,Bolo caseiro,Padaria,Delivery,20,18.0,9.5,22,15,140,0,0,Rotina
+25,Bolo caseiro,Padaria,Centro,45,18.0,9.5,22,15,140,0,0,Rotina
+25,Bolo caseiro,Padaria,Bairro,32,18.0,9.5,22,15,140,0,0,Rotina
+25,Bolo caseiro,Padaria,Delivery,17,18.0,9.5,22,15,140,0,0,Rotina
+26,Bolo caseiro,Padaria,Centro,57,18.0,9.5,22,15,140,0,1,Festa junina
+26,Bolo caseiro,Padaria,Bairro,40,18.0,9.5,22,15,140,0,1,Festa junina
+26,Bolo caseiro,Padaria,Delivery,21,18.0,9.5,22,15,140,0,1,Festa junina
+1,Cuscuz pronto,Lanches,Centro,90,6.0,3.1,45,30,260,0,0,Rotina
+1,Cuscuz pronto,Lanches,Bairro,64,6.0,3.1,45,30,260,0,0,Rotina
+1,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Rotina
+2,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Rotina
+2,Cuscuz pronto,Lanches,Bairro,63,6.0,3.1,45,30,260,0,0,Rotina
+2,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+3,Cuscuz pronto,Lanches,Centro,87,6.0,3.1,45,30,260,0,0,Rotina
+3,Cuscuz pronto,Lanches,Bairro,62,6.0,3.1,45,30,260,0,0,Rotina
+3,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+4,Cuscuz pronto,Lanches,Centro,94,6.0,3.1,45,30,260,0,0,Promoção de inauguração
+4,Cuscuz pronto,Lanches,Bairro,67,6.0,3.1,45,30,260,0,0,Promoção de inauguração
+4,Cuscuz pronto,Lanches,Delivery,35,6.0,3.1,45,30,260,0,0,Promoção de inauguração
+5,Cuscuz pronto,Lanches,Centro,80,6.0,3.1,45,30,260,0,0,Rotina
+5,Cuscuz pronto,Lanches,Bairro,56,6.0,3.1,45,30,260,0,0,Rotina
+5,Cuscuz pronto,Lanches,Delivery,30,6.0,3.1,45,30,260,0,0,Rotina
+6,Cuscuz pronto,Lanches,Centro,90,6.0,3.1,45,30,260,0,0,Rotina
+6,Cuscuz pronto,Lanches,Bairro,64,6.0,3.1,45,30,260,0,0,Rotina
+6,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Rotina
+7,Cuscuz pronto,Lanches,Centro,89,6.0,3.1,45,30,260,0,0,Rotina
+7,Cuscuz pronto,Lanches,Bairro,63,6.0,3.1,45,30,260,0,0,Rotina
+7,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+8,Cuscuz pronto,Lanches,Centro,108,6.0,3.1,45,30,260,0,1,Feriado local
+8,Cuscuz pronto,Lanches,Bairro,76,6.0,3.1,45,30,260,0,1,Feriado local
+8,Cuscuz pronto,Lanches,Delivery,40,6.0,3.1,45,30,260,0,1,Feriado local
+9,Cuscuz pronto,Lanches,Centro,86,6.0,3.1,45,30,260,0,0,Rotina
+9,Cuscuz pronto,Lanches,Bairro,61,6.0,3.1,45,30,260,0,0,Rotina
+9,Cuscuz pronto,Lanches,Delivery,32,6.0,3.1,45,30,260,0,0,Rotina
+10,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Rotina
+10,Cuscuz pronto,Lanches,Bairro,62,6.0,3.1,45,30,260,0,0,Rotina
+10,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+11,Cuscuz pronto,Lanches,Centro,91,6.0,3.1,45,30,260,0,0,Rotina
+11,Cuscuz pronto,Lanches,Bairro,64,6.0,3.1,45,30,260,0,0,Rotina
+11,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Rotina
+12,Cuscuz pronto,Lanches,Centro,108,6.0,3.1,45,30,260,0,0,Evento escolar
+12,Cuscuz pronto,Lanches,Bairro,76,6.0,3.1,45,30,260,0,0,Evento escolar
+12,Cuscuz pronto,Lanches,Delivery,40,6.0,3.1,45,30,260,0,0,Evento escolar
+13,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Rotina
+13,Cuscuz pronto,Lanches,Bairro,62,6.0,3.1,45,30,260,0,0,Rotina
+13,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+14,Cuscuz pronto,Lanches,Centro,86,6.0,3.1,45,30,260,0,0,Rotina
+14,Cuscuz pronto,Lanches,Bairro,61,6.0,3.1,45,30,260,0,0,Rotina
+14,Cuscuz pronto,Lanches,Delivery,32,6.0,3.1,45,30,260,0,0,Rotina
+15,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Rotina
+15,Cuscuz pronto,Lanches,Bairro,62,6.0,3.1,45,30,260,0,0,Rotina
+15,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+16,Cuscuz pronto,Lanches,Centro,100,6.0,3.1,45,30,260,0,0,Rotina
+16,Cuscuz pronto,Lanches,Bairro,71,6.0,3.1,45,30,260,0,0,Rotina
+16,Cuscuz pronto,Lanches,Delivery,38,6.0,3.1,45,30,260,0,0,Rotina
+17,Cuscuz pronto,Lanches,Centro,90,6.0,3.1,45,30,260,0,0,Rotina
+17,Cuscuz pronto,Lanches,Bairro,63,6.0,3.1,45,30,260,0,0,Rotina
+17,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Rotina
+18,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Promoção relâmpago
+18,Cuscuz pronto,Lanches,Bairro,62,6.0,3.1,45,30,260,0,0,Promoção relâmpago
+18,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Promoção relâmpago
+19,Cuscuz pronto,Lanches,Centro,95,6.0,3.1,45,30,260,0,0,Rotina
+19,Cuscuz pronto,Lanches,Bairro,67,6.0,3.1,45,30,260,0,0,Rotina
+19,Cuscuz pronto,Lanches,Delivery,36,6.0,3.1,45,30,260,0,0,Rotina
+20,Cuscuz pronto,Lanches,Centro,98,6.0,3.1,45,30,260,0,0,Rotina
+20,Cuscuz pronto,Lanches,Bairro,69,6.0,3.1,45,30,260,0,0,Rotina
+20,Cuscuz pronto,Lanches,Delivery,37,6.0,3.1,45,30,260,0,0,Rotina
+21,Cuscuz pronto,Lanches,Centro,92,6.0,3.1,45,30,260,0,0,Rotina
+21,Cuscuz pronto,Lanches,Bairro,65,6.0,3.1,45,30,260,0,0,Rotina
+21,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Rotina
+22,Cuscuz pronto,Lanches,Centro,90,6.0,3.1,45,30,260,0,0,Semana de pagamento
+22,Cuscuz pronto,Lanches,Bairro,64,6.0,3.1,45,30,260,0,0,Semana de pagamento
+22,Cuscuz pronto,Lanches,Delivery,34,6.0,3.1,45,30,260,0,0,Semana de pagamento
+23,Cuscuz pronto,Lanches,Centro,88,6.0,3.1,45,30,260,0,0,Rotina
+23,Cuscuz pronto,Lanches,Bairro,63,6.0,3.1,45,30,260,0,0,Rotina
+23,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+24,Cuscuz pronto,Lanches,Centro,105,6.0,3.1,45,30,260,0,0,Rotina
+24,Cuscuz pronto,Lanches,Bairro,74,6.0,3.1,45,30,260,0,0,Rotina
+24,Cuscuz pronto,Lanches,Delivery,39,6.0,3.1,45,30,260,0,0,Rotina
+25,Cuscuz pronto,Lanches,Centro,89,6.0,3.1,45,30,260,0,0,Rotina
+25,Cuscuz pronto,Lanches,Bairro,63,6.0,3.1,45,30,260,0,0,Rotina
+25,Cuscuz pronto,Lanches,Delivery,33,6.0,3.1,45,30,260,0,0,Rotina
+26,Cuscuz pronto,Lanches,Centro,103,6.0,3.1,45,30,260,0,1,Festa junina
+26,Cuscuz pronto,Lanches,Bairro,73,6.0,3.1,45,30,260,0,1,Festa junina
+26,Cuscuz pronto,Lanches,Delivery,39,6.0,3.1,45,30,260,0,1,Festa junina
+1,Marmita executiva,Almoço,Centro,125,16.0,9.2,55,45,360,0,0,Rotina
+1,Marmita executiva,Almoço,Bairro,88,16.0,9.2,55,45,360,0,0,Rotina
+1,Marmita executiva,Almoço,Delivery,47,16.0,9.2,55,45,360,0,0,Rotina
+2,Marmita executiva,Almoço,Centro,123,16.0,9.2,55,45,360,0,0,Rotina
+2,Marmita executiva,Almoço,Bairro,87,16.0,9.2,55,45,360,0,0,Rotina
+2,Marmita executiva,Almoço,Delivery,46,16.0,9.2,55,45,360,0,0,Rotina
+3,Marmita executiva,Almoço,Centro,121,16.0,9.2,55,45,360,0,0,Rotina
+3,Marmita executiva,Almoço,Bairro,86,16.0,9.2,55,45,360,0,0,Rotina
+3,Marmita executiva,Almoço,Delivery,45,16.0,9.2,55,45,360,0,0,Rotina
+4,Marmita executiva,Almoço,Centro,144,16.0,9.2,55,45,360,0,0,Promoção de inauguração
+4,Marmita executiva,Almoço,Bairro,102,16.0,9.2,55,45,360,0,0,Promoção de inauguração
+4,Marmita executiva,Almoço,Delivery,54,16.0,9.2,55,45,360,0,0,Promoção de inauguração
+5,Marmita executiva,Almoço,Centro,123,16.0,9.2,55,45,360,0,0,Rotina
+5,Marmita executiva,Almoço,Bairro,87,16.0,9.2,55,45,360,0,0,Rotina
+5,Marmita executiva,Almoço,Delivery,46,16.0,9.2,55,45,360,0,0,Rotina
+6,Marmita executiva,Almoço,Centro,127,16.0,9.2,55,45,360,0,0,Rotina
+6,Marmita executiva,Almoço,Bairro,90,16.0,9.2,55,45,360,0,0,Rotina
+6,Marmita executiva,Almoço,Delivery,48,16.0,9.2,55,45,360,0,0,Rotina
+7,Marmita executiva,Almoço,Centro,125,16.0,9.2,55,45,360,0,0,Rotina
+7,Marmita executiva,Almoço,Bairro,89,16.0,9.2,55,45,360,0,0,Rotina
+7,Marmita executiva,Almoço,Delivery,47,16.0,9.2,55,45,360,0,0,Rotina
+8,Marmita executiva,Almoço,Centro,167,16.0,9.2,55,45,360,0,1,Feriado local
+8,Marmita executiva,Almoço,Bairro,118,16.0,9.2,55,45,360,0,1,Feriado local
+8,Marmita executiva,Almoço,Delivery,62,16.0,9.2,55,45,360,0,1,Feriado local
+9,Marmita executiva,Almoço,Centro,133,16.0,9.2,55,45,360,0,0,Rotina
+9,Marmita executiva,Almoço,Bairro,94,16.0,9.2,55,45,360,0,0,Rotina
+9,Marmita executiva,Almoço,Delivery,50,16.0,9.2,55,45,360,0,0,Rotina
+10,Marmita executiva,Almoço,Centro,125,16.0,9.2,55,45,360,0,0,Rotina
+10,Marmita executiva,Almoço,Bairro,89,16.0,9.2,55,45,360,0,0,Rotina
+10,Marmita executiva,Almoço,Delivery,47,16.0,9.2,55,45,360,0,0,Rotina
+11,Marmita executiva,Almoço,Centro,130,16.0,9.2,55,45,360,0,0,Rotina
+11,Marmita executiva,Almoço,Bairro,92,16.0,9.2,55,45,360,0,0,Rotina
+11,Marmita executiva,Almoço,Delivery,49,16.0,9.2,55,45,360,0,0,Rotina
+12,Marmita executiva,Almoço,Centro,140,16.0,9.2,55,45,360,0,0,Evento escolar
+12,Marmita executiva,Almoço,Bairro,100,16.0,9.2,55,45,360,0,0,Evento escolar
+12,Marmita executiva,Almoço,Delivery,53,16.0,9.2,55,45,360,0,0,Evento escolar
+13,Marmita executiva,Almoço,Centro,138,16.0,9.2,55,45,360,0,0,Rotina
+13,Marmita executiva,Almoço,Bairro,98,16.0,9.2,55,45,360,0,0,Rotina
+13,Marmita executiva,Almoço,Delivery,52,16.0,9.2,55,45,360,0,0,Rotina
+14,Marmita executiva,Almoço,Centro,136,16.0,9.2,55,45,360,0,0,Rotina
+14,Marmita executiva,Almoço,Bairro,96,16.0,9.2,55,45,360,0,0,Rotina
+14,Marmita executiva,Almoço,Delivery,51,16.0,9.2,55,45,360,0,0,Rotina
+15,Marmita executiva,Almoço,Centro,127,16.0,9.2,55,45,360,0,0,Rotina
+15,Marmita executiva,Almoço,Bairro,90,16.0,9.2,55,45,360,0,0,Rotina
+15,Marmita executiva,Almoço,Delivery,48,16.0,9.2,55,45,360,0,0,Rotina
+16,Marmita executiva,Almoço,Centro,145,16.0,9.2,55,45,360,0,0,Rotina
+16,Marmita executiva,Almoço,Bairro,103,16.0,9.2,55,45,360,0,0,Rotina
+16,Marmita executiva,Almoço,Delivery,54,16.0,9.2,55,45,360,0,0,Rotina
+17,Marmita executiva,Almoço,Centro,142,16.0,9.2,55,45,360,0,0,Rotina
+17,Marmita executiva,Almoço,Bairro,101,16.0,9.2,55,45,360,0,0,Rotina
+17,Marmita executiva,Almoço,Delivery,53,16.0,9.2,55,45,360,0,0,Rotina
+18,Marmita executiva,Almoço,Centro,140,16.0,9.2,55,45,360,0,0,Promoção relâmpago
+18,Marmita executiva,Almoço,Bairro,99,16.0,9.2,55,45,360,0,0,Promoção relâmpago
+18,Marmita executiva,Almoço,Delivery,53,16.0,9.2,55,45,360,0,0,Promoção relâmpago
+19,Marmita executiva,Almoço,Centro,138,16.0,9.2,55,45,360,0,0,Rotina
+19,Marmita executiva,Almoço,Bairro,98,16.0,9.2,55,45,360,0,0,Rotina
+19,Marmita executiva,Almoço,Delivery,52,16.0,9.2,55,45,360,0,0,Rotina
+20,Marmita executiva,Almoço,Centro,143,16.0,9.2,55,45,360,0,0,Rotina
+20,Marmita executiva,Almoço,Bairro,101,16.0,9.2,55,45,360,0,0,Rotina
+20,Marmita executiva,Almoço,Delivery,54,16.0,9.2,55,45,360,0,0,Rotina
+21,Marmita executiva,Almoço,Centro,134,16.0,9.2,55,45,360,0,0,Rotina
+21,Marmita executiva,Almoço,Bairro,95,16.0,9.2,55,45,360,0,0,Rotina
+21,Marmita executiva,Almoço,Delivery,50,16.0,9.2,55,45,360,0,0,Rotina
+22,Marmita executiva,Almoço,Centro,145,16.0,9.2,55,45,360,0,0,Semana de pagamento
+22,Marmita executiva,Almoço,Bairro,103,16.0,9.2,55,45,360,0,0,Semana de pagamento
+22,Marmita executiva,Almoço,Delivery,54,16.0,9.2,55,45,360,0,0,Semana de pagamento
+23,Marmita executiva,Almoço,Centro,143,16.0,9.2,55,45,360,0,0,Rotina
+23,Marmita executiva,Almoço,Bairro,101,16.0,9.2,55,45,360,0,0,Rotina
+23,Marmita executiva,Almoço,Delivery,54,16.0,9.2,55,45,360,0,0,Rotina
+24,Marmita executiva,Almoço,Centro,155,16.0,9.2,55,45,360,0,0,Rotina
+24,Marmita executiva,Almoço,Bairro,110,16.0,9.2,55,45,360,0,0,Rotina
+24,Marmita executiva,Almoço,Delivery,58,16.0,9.2,55,45,360,0,0,Rotina
+25,Marmita executiva,Almoço,Centro,132,16.0,9.2,55,45,360,0,0,Rotina
+25,Marmita executiva,Almoço,Bairro,93,16.0,9.2,55,45,360,0,0,Rotina
+25,Marmita executiva,Almoço,Delivery,49,16.0,9.2,55,45,360,0,0,Rotina
+26,Marmita executiva,Almoço,Centro,167,16.0,9.2,55,45,360,0,1,Festa junina
+26,Marmita executiva,Almoço,Bairro,118,16.0,9.2,55,45,360,0,1,Festa junina
+26,Marmita executiva,Almoço,Delivery,63,16.0,9.2,55,45,360,0,1,Festa junina
+1,Suco natural,Bebidas,Centro,97,7.0,3.3,65,40,320,0,0,Rotina
+1,Suco natural,Bebidas,Bairro,69,7.0,3.3,65,40,320,0,0,Rotina
+1,Suco natural,Bebidas,Delivery,36,7.0,3.3,65,40,320,0,0,Rotina
+2,Suco natural,Bebidas,Centro,104,7.0,3.3,65,40,320,0,0,Rotina
+2,Suco natural,Bebidas,Bairro,74,7.0,3.3,65,40,320,0,0,Rotina
+2,Suco natural,Bebidas,Delivery,39,7.0,3.3,65,40,320,0,0,Rotina
+3,Suco natural,Bebidas,Centro,103,7.0,3.3,65,40,320,0,0,Rotina
+3,Suco natural,Bebidas,Bairro,73,7.0,3.3,65,40,320,0,0,Rotina
+3,Suco natural,Bebidas,Delivery,39,7.0,3.3,65,40,320,0,0,Rotina
+4,Suco natural,Bebidas,Centro,132,7.0,3.3,65,40,320,1,0,Promoção de inauguração
+4,Suco natural,Bebidas,Bairro,93,7.0,3.3,65,40,320,1,0,Promoção de inauguração
+4,Suco natural,Bebidas,Delivery,49,7.0,3.3,65,40,320,1,0,Promoção de inauguração
+5,Suco natural,Bebidas,Centro,95,7.0,3.3,65,40,320,0,0,Rotina
+5,Suco natural,Bebidas,Bairro,67,7.0,3.3,65,40,320,0,0,Rotina
+5,Suco natural,Bebidas,Delivery,36,7.0,3.3,65,40,320,0,0,Rotina
+6,Suco natural,Bebidas,Centro,108,7.0,3.3,65,40,320,0,0,Rotina
+6,Suco natural,Bebidas,Bairro,76,7.0,3.3,65,40,320,0,0,Rotina
+6,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+7,Suco natural,Bebidas,Centro,107,7.0,3.3,65,40,320,0,0,Rotina
+7,Suco natural,Bebidas,Bairro,75,7.0,3.3,65,40,320,0,0,Rotina
+7,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+8,Suco natural,Bebidas,Centro,129,7.0,3.3,65,40,320,0,1,Feriado local
+8,Suco natural,Bebidas,Bairro,92,7.0,3.3,65,40,320,0,1,Feriado local
+8,Suco natural,Bebidas,Delivery,49,7.0,3.3,65,40,320,0,1,Feriado local
+9,Suco natural,Bebidas,Centro,104,7.0,3.3,65,40,320,0,0,Rotina
+9,Suco natural,Bebidas,Bairro,73,7.0,3.3,65,40,320,0,0,Rotina
+9,Suco natural,Bebidas,Delivery,39,7.0,3.3,65,40,320,0,0,Rotina
+10,Suco natural,Bebidas,Centro,97,7.0,3.3,65,40,320,0,0,Rotina
+10,Suco natural,Bebidas,Bairro,69,7.0,3.3,65,40,320,0,0,Rotina
+10,Suco natural,Bebidas,Delivery,36,7.0,3.3,65,40,320,0,0,Rotina
+11,Suco natural,Bebidas,Centro,110,7.0,3.3,65,40,320,0,0,Rotina
+11,Suco natural,Bebidas,Bairro,78,7.0,3.3,65,40,320,0,0,Rotina
+11,Suco natural,Bebidas,Delivery,41,7.0,3.3,65,40,320,0,0,Rotina
+12,Suco natural,Bebidas,Centro,131,7.0,3.3,65,40,320,0,0,Evento escolar
+12,Suco natural,Bebidas,Bairro,93,7.0,3.3,65,40,320,0,0,Evento escolar
+12,Suco natural,Bebidas,Delivery,49,7.0,3.3,65,40,320,0,0,Evento escolar
+13,Suco natural,Bebidas,Centro,107,7.0,3.3,65,40,320,0,0,Rotina
+13,Suco natural,Bebidas,Bairro,76,7.0,3.3,65,40,320,0,0,Rotina
+13,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+14,Suco natural,Bebidas,Centro,105,7.0,3.3,65,40,320,0,0,Rotina
+14,Suco natural,Bebidas,Bairro,75,7.0,3.3,65,40,320,0,0,Rotina
+14,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+15,Suco natural,Bebidas,Centro,108,7.0,3.3,65,40,320,0,0,Rotina
+15,Suco natural,Bebidas,Bairro,76,7.0,3.3,65,40,320,0,0,Rotina
+15,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+16,Suco natural,Bebidas,Centro,123,7.0,3.3,65,40,320,0,0,Rotina
+16,Suco natural,Bebidas,Bairro,87,7.0,3.3,65,40,320,0,0,Rotina
+16,Suco natural,Bebidas,Delivery,46,7.0,3.3,65,40,320,0,0,Rotina
+17,Suco natural,Bebidas,Centro,110,7.0,3.3,65,40,320,0,0,Rotina
+17,Suco natural,Bebidas,Bairro,78,7.0,3.3,65,40,320,0,0,Rotina
+17,Suco natural,Bebidas,Delivery,41,7.0,3.3,65,40,320,0,0,Rotina
+18,Suco natural,Bebidas,Centro,128,7.0,3.3,65,40,320,1,0,Promoção relâmpago
+18,Suco natural,Bebidas,Bairro,91,7.0,3.3,65,40,320,1,0,Promoção relâmpago
+18,Suco natural,Bebidas,Delivery,48,7.0,3.3,65,40,320,1,0,Promoção relâmpago
+19,Suco natural,Bebidas,Centro,107,7.0,3.3,65,40,320,0,0,Rotina
+19,Suco natural,Bebidas,Bairro,76,7.0,3.3,65,40,320,0,0,Rotina
+19,Suco natural,Bebidas,Delivery,40,7.0,3.3,65,40,320,0,0,Rotina
+20,Suco natural,Bebidas,Centro,121,7.0,3.3,65,40,320,0,0,Rotina
+20,Suco natural,Bebidas,Bairro,86,7.0,3.3,65,40,320,0,0,Rotina
+20,Suco natural,Bebidas,Delivery,46,7.0,3.3,65,40,320,0,0,Rotina
+21,Suco natural,Bebidas,Centro,114,7.0,3.3,65,40,320,0,0,Rotina
+21,Suco natural,Bebidas,Bairro,81,7.0,3.3,65,40,320,0,0,Rotina
+21,Suco natural,Bebidas,Delivery,43,7.0,3.3,65,40,320,0,0,Rotina
+22,Suco natural,Bebidas,Centro,112,7.0,3.3,65,40,320,0,0,Semana de pagamento
+22,Suco natural,Bebidas,Bairro,80,7.0,3.3,65,40,320,0,0,Semana de pagamento
+22,Suco natural,Bebidas,Delivery,42,7.0,3.3,65,40,320,0,0,Semana de pagamento
+23,Suco natural,Bebidas,Centro,111,7.0,3.3,65,40,320,0,0,Rotina
+23,Suco natural,Bebidas,Bairro,78,7.0,3.3,65,40,320,0,0,Rotina
+23,Suco natural,Bebidas,Delivery,42,7.0,3.3,65,40,320,0,0,Rotina
+24,Suco natural,Bebidas,Centro,131,7.0,3.3,65,40,320,0,0,Rotina
+24,Suco natural,Bebidas,Bairro,93,7.0,3.3,65,40,320,0,0,Rotina
+24,Suco natural,Bebidas,Delivery,49,7.0,3.3,65,40,320,0,0,Rotina
+25,Suco natural,Bebidas,Centro,112,7.0,3.3,65,40,320,0,0,Rotina
+25,Suco natural,Bebidas,Bairro,79,7.0,3.3,65,40,320,0,0,Rotina
+25,Suco natural,Bebidas,Delivery,42,7.0,3.3,65,40,320,0,0,Rotina
+26,Suco natural,Bebidas,Centro,130,7.0,3.3,65,40,320,0,1,Festa junina
+26,Suco natural,Bebidas,Bairro,92,7.0,3.3,65,40,320,0,1,Festa junina
+26,Suco natural,Bebidas,Delivery,49,7.0,3.3,65,40,320,0,1,Festa junina
+1,Café 250g,Mercearia,Centro,65,12.5,8.2,38,28,210,0,0,Rotina
+1,Café 250g,Mercearia,Bairro,46,12.5,8.2,38,28,210,0,0,Rotina
+1,Café 250g,Mercearia,Delivery,25,12.5,8.2,38,28,210,0,0,Rotina
+2,Café 250g,Mercearia,Centro,64,12.5,8.2,38,28,210,0,0,Rotina
+2,Café 250g,Mercearia,Bairro,46,12.5,8.2,38,28,210,0,0,Rotina
+2,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+3,Café 250g,Mercearia,Centro,63,12.5,8.2,38,28,210,0,0,Rotina
+3,Café 250g,Mercearia,Bairro,45,12.5,8.2,38,28,210,0,0,Rotina
+3,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+4,Café 250g,Mercearia,Centro,75,12.5,8.2,38,28,210,0,0,Promoção de inauguração
+4,Café 250g,Mercearia,Bairro,53,12.5,8.2,38,28,210,0,0,Promoção de inauguração
+4,Café 250g,Mercearia,Delivery,28,12.5,8.2,38,28,210,0,0,Promoção de inauguração
+5,Café 250g,Mercearia,Centro,64,12.5,8.2,38,28,210,0,0,Rotina
+5,Café 250g,Mercearia,Bairro,45,12.5,8.2,38,28,210,0,0,Rotina
+5,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+6,Café 250g,Mercearia,Centro,66,12.5,8.2,38,28,210,0,0,Rotina
+6,Café 250g,Mercearia,Bairro,47,12.5,8.2,38,28,210,0,0,Rotina
+6,Café 250g,Mercearia,Delivery,25,12.5,8.2,38,28,210,0,0,Rotina
+7,Café 250g,Mercearia,Centro,65,12.5,8.2,38,28,210,0,0,Rotina
+7,Café 250g,Mercearia,Bairro,46,12.5,8.2,38,28,210,0,0,Rotina
+7,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+8,Café 250g,Mercearia,Centro,78,12.5,8.2,38,28,210,0,1,Feriado local
+8,Café 250g,Mercearia,Bairro,55,12.5,8.2,38,28,210,0,1,Feriado local
+8,Café 250g,Mercearia,Delivery,29,12.5,8.2,38,28,210,0,1,Feriado local
+9,Café 250g,Mercearia,Centro,68,12.5,8.2,38,28,210,0,0,Rotina
+9,Café 250g,Mercearia,Bairro,48,12.5,8.2,38,28,210,0,0,Rotina
+9,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Rotina
+10,Café 250g,Mercearia,Centro,64,12.5,8.2,38,28,210,0,0,Rotina
+10,Café 250g,Mercearia,Bairro,45,12.5,8.2,38,28,210,0,0,Rotina
+10,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+11,Café 250g,Mercearia,Centro,66,12.5,8.2,38,28,210,0,0,Rotina
+11,Café 250g,Mercearia,Bairro,47,12.5,8.2,38,28,210,0,0,Rotina
+11,Café 250g,Mercearia,Delivery,25,12.5,8.2,38,28,210,0,0,Rotina
+12,Café 250g,Mercearia,Centro,71,12.5,8.2,38,28,210,0,0,Evento escolar
+12,Café 250g,Mercearia,Bairro,51,12.5,8.2,38,28,210,0,0,Evento escolar
+12,Café 250g,Mercearia,Delivery,27,12.5,8.2,38,28,210,0,0,Evento escolar
+13,Café 250g,Mercearia,Centro,70,12.5,8.2,38,28,210,0,0,Rotina
+13,Café 250g,Mercearia,Bairro,49,12.5,8.2,38,28,210,0,0,Rotina
+13,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Rotina
+14,Café 250g,Mercearia,Centro,69,12.5,8.2,38,28,210,0,0,Rotina
+14,Café 250g,Mercearia,Bairro,49,12.5,8.2,38,28,210,0,0,Rotina
+14,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Rotina
+15,Café 250g,Mercearia,Centro,64,12.5,8.2,38,28,210,0,0,Rotina
+15,Café 250g,Mercearia,Bairro,45,12.5,8.2,38,28,210,0,0,Rotina
+15,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+16,Café 250g,Mercearia,Centro,73,12.5,8.2,38,28,210,0,0,Rotina
+16,Café 250g,Mercearia,Bairro,52,12.5,8.2,38,28,210,0,0,Rotina
+16,Café 250g,Mercearia,Delivery,27,12.5,8.2,38,28,210,0,0,Rotina
+17,Café 250g,Mercearia,Centro,65,12.5,8.2,38,28,210,0,0,Rotina
+17,Café 250g,Mercearia,Bairro,46,12.5,8.2,38,28,210,0,0,Rotina
+17,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+18,Café 250g,Mercearia,Centro,70,12.5,8.2,38,28,210,0,0,Promoção relâmpago
+18,Café 250g,Mercearia,Bairro,50,12.5,8.2,38,28,210,0,0,Promoção relâmpago
+18,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Promoção relâmpago
+19,Café 250g,Mercearia,Centro,69,12.5,8.2,38,28,210,0,0,Rotina
+19,Café 250g,Mercearia,Bairro,49,12.5,8.2,38,28,210,0,0,Rotina
+19,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Rotina
+20,Café 250g,Mercearia,Centro,71,12.5,8.2,38,28,210,0,0,Rotina
+20,Café 250g,Mercearia,Bairro,50,12.5,8.2,38,28,210,0,0,Rotina
+20,Café 250g,Mercearia,Delivery,27,12.5,8.2,38,28,210,0,0,Rotina
+21,Café 250g,Mercearia,Centro,67,12.5,8.2,38,28,210,0,0,Rotina
+21,Café 250g,Mercearia,Bairro,47,12.5,8.2,38,28,210,0,0,Rotina
+21,Café 250g,Mercearia,Delivery,25,12.5,8.2,38,28,210,0,0,Rotina
+22,Café 250g,Mercearia,Centro,72,12.5,8.2,38,28,210,0,0,Semana de pagamento
+22,Café 250g,Mercearia,Bairro,51,12.5,8.2,38,28,210,0,0,Semana de pagamento
+22,Café 250g,Mercearia,Delivery,27,12.5,8.2,38,28,210,0,0,Semana de pagamento
+23,Café 250g,Mercearia,Centro,70,12.5,8.2,38,28,210,0,0,Rotina
+23,Café 250g,Mercearia,Bairro,50,12.5,8.2,38,28,210,0,0,Rotina
+23,Café 250g,Mercearia,Delivery,26,12.5,8.2,38,28,210,0,0,Rotina
+24,Café 250g,Mercearia,Centro,76,12.5,8.2,38,28,210,0,0,Rotina
+24,Café 250g,Mercearia,Bairro,54,12.5,8.2,38,28,210,0,0,Rotina
+24,Café 250g,Mercearia,Delivery,29,12.5,8.2,38,28,210,0,0,Rotina
+25,Café 250g,Mercearia,Centro,65,12.5,8.2,38,28,210,0,0,Rotina
+25,Café 250g,Mercearia,Bairro,46,12.5,8.2,38,28,210,0,0,Rotina
+25,Café 250g,Mercearia,Delivery,24,12.5,8.2,38,28,210,0,0,Rotina
+26,Café 250g,Mercearia,Centro,75,12.5,8.2,38,28,210,0,1,Festa junina
+26,Café 250g,Mercearia,Bairro,53,12.5,8.2,38,28,210,0,1,Festa junina
+26,Café 250g,Mercearia,Delivery,28,12.5,8.2,38,28,210,0,1,Festa junina
+1,Arroz 1kg,Mercearia,Centro,74,7.2,5.4,48,35,240,0,0,Rotina
+1,Arroz 1kg,Mercearia,Bairro,53,7.2,5.4,48,35,240,0,0,Rotina
+1,Arroz 1kg,Mercearia,Delivery,28,7.2,5.4,48,35,240,0,0,Rotina
+2,Arroz 1kg,Mercearia,Centro,80,7.2,5.4,48,35,240,0,0,Rotina
+2,Arroz 1kg,Mercearia,Bairro,57,7.2,5.4,48,35,240,0,0,Rotina
+2,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+3,Arroz 1kg,Mercearia,Centro,79,7.2,5.4,48,35,240,0,0,Rotina
+3,Arroz 1kg,Mercearia,Bairro,56,7.2,5.4,48,35,240,0,0,Rotina
+3,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+4,Arroz 1kg,Mercearia,Centro,85,7.2,5.4,48,35,240,0,0,Promoção de inauguração
+4,Arroz 1kg,Mercearia,Bairro,60,7.2,5.4,48,35,240,0,0,Promoção de inauguração
+4,Arroz 1kg,Mercearia,Delivery,32,7.2,5.4,48,35,240,0,0,Promoção de inauguração
+5,Arroz 1kg,Mercearia,Centro,72,7.2,5.4,48,35,240,0,0,Rotina
+5,Arroz 1kg,Mercearia,Bairro,51,7.2,5.4,48,35,240,0,0,Rotina
+5,Arroz 1kg,Mercearia,Delivery,27,7.2,5.4,48,35,240,0,0,Rotina
+6,Arroz 1kg,Mercearia,Centro,75,7.2,5.4,48,35,240,0,0,Rotina
+6,Arroz 1kg,Mercearia,Bairro,53,7.2,5.4,48,35,240,0,0,Rotina
+6,Arroz 1kg,Mercearia,Delivery,28,7.2,5.4,48,35,240,0,0,Rotina
+7,Arroz 1kg,Mercearia,Centro,81,7.2,5.4,48,35,240,0,0,Rotina
+7,Arroz 1kg,Mercearia,Bairro,57,7.2,5.4,48,35,240,0,0,Rotina
+7,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+8,Arroz 1kg,Mercearia,Centro,98,7.2,5.4,48,35,240,0,1,Feriado local
+8,Arroz 1kg,Mercearia,Bairro,69,7.2,5.4,48,35,240,0,1,Feriado local
+8,Arroz 1kg,Mercearia,Delivery,37,7.2,5.4,48,35,240,0,1,Feriado local
+9,Arroz 1kg,Mercearia,Centro,78,7.2,5.4,48,35,240,0,0,Rotina
+9,Arroz 1kg,Mercearia,Bairro,55,7.2,5.4,48,35,240,0,0,Rotina
+9,Arroz 1kg,Mercearia,Delivery,29,7.2,5.4,48,35,240,0,0,Rotina
+10,Arroz 1kg,Mercearia,Centro,73,7.2,5.4,48,35,240,0,0,Rotina
+10,Arroz 1kg,Mercearia,Bairro,51,7.2,5.4,48,35,240,0,0,Rotina
+10,Arroz 1kg,Mercearia,Delivery,27,7.2,5.4,48,35,240,0,0,Rotina
+11,Arroz 1kg,Mercearia,Centro,82,7.2,5.4,48,35,240,0,0,Rotina
+11,Arroz 1kg,Mercearia,Bairro,58,7.2,5.4,48,35,240,0,0,Rotina
+11,Arroz 1kg,Mercearia,Delivery,31,7.2,5.4,48,35,240,0,0,Rotina
+12,Arroz 1kg,Mercearia,Centro,89,7.2,5.4,48,35,240,0,0,Evento escolar
+12,Arroz 1kg,Mercearia,Bairro,63,7.2,5.4,48,35,240,0,0,Evento escolar
+12,Arroz 1kg,Mercearia,Delivery,33,7.2,5.4,48,35,240,0,0,Evento escolar
+13,Arroz 1kg,Mercearia,Centro,80,7.2,5.4,48,35,240,0,0,Rotina
+13,Arroz 1kg,Mercearia,Bairro,56,7.2,5.4,48,35,240,0,0,Rotina
+13,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+14,Arroz 1kg,Mercearia,Centro,78,7.2,5.4,48,35,240,0,0,Rotina
+14,Arroz 1kg,Mercearia,Bairro,55,7.2,5.4,48,35,240,0,0,Rotina
+14,Arroz 1kg,Mercearia,Delivery,29,7.2,5.4,48,35,240,0,0,Rotina
+15,Arroz 1kg,Mercearia,Centro,73,7.2,5.4,48,35,240,0,0,Rotina
+15,Arroz 1kg,Mercearia,Bairro,52,7.2,5.4,48,35,240,0,0,Rotina
+15,Arroz 1kg,Mercearia,Delivery,27,7.2,5.4,48,35,240,0,0,Rotina
+16,Arroz 1kg,Mercearia,Centro,91,7.2,5.4,48,35,240,0,0,Rotina
+16,Arroz 1kg,Mercearia,Bairro,64,7.2,5.4,48,35,240,0,0,Rotina
+16,Arroz 1kg,Mercearia,Delivery,34,7.2,5.4,48,35,240,0,0,Rotina
+17,Arroz 1kg,Mercearia,Centro,81,7.2,5.4,48,35,240,0,0,Rotina
+17,Arroz 1kg,Mercearia,Bairro,58,7.2,5.4,48,35,240,0,0,Rotina
+17,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+18,Arroz 1kg,Mercearia,Centro,80,7.2,5.4,48,35,240,0,0,Promoção relâmpago
+18,Arroz 1kg,Mercearia,Bairro,57,7.2,5.4,48,35,240,0,0,Promoção relâmpago
+18,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Promoção relâmpago
+19,Arroz 1kg,Mercearia,Centro,79,7.2,5.4,48,35,240,0,0,Rotina
+19,Arroz 1kg,Mercearia,Bairro,56,7.2,5.4,48,35,240,0,0,Rotina
+19,Arroz 1kg,Mercearia,Delivery,29,7.2,5.4,48,35,240,0,0,Rotina
+20,Arroz 1kg,Mercearia,Centro,89,7.2,5.4,48,35,240,0,0,Rotina
+20,Arroz 1kg,Mercearia,Bairro,63,7.2,5.4,48,35,240,0,0,Rotina
+20,Arroz 1kg,Mercearia,Delivery,33,7.2,5.4,48,35,240,0,0,Rotina
+21,Arroz 1kg,Mercearia,Centro,83,7.2,5.4,48,35,240,0,0,Rotina
+21,Arroz 1kg,Mercearia,Bairro,59,7.2,5.4,48,35,240,0,0,Rotina
+21,Arroz 1kg,Mercearia,Delivery,31,7.2,5.4,48,35,240,0,0,Rotina
+22,Arroz 1kg,Mercearia,Centro,82,7.2,5.4,48,35,240,0,0,Semana de pagamento
+22,Arroz 1kg,Mercearia,Bairro,58,7.2,5.4,48,35,240,0,0,Semana de pagamento
+22,Arroz 1kg,Mercearia,Delivery,31,7.2,5.4,48,35,240,0,0,Semana de pagamento
+23,Arroz 1kg,Mercearia,Centro,80,7.2,5.4,48,35,240,0,0,Rotina
+23,Arroz 1kg,Mercearia,Bairro,57,7.2,5.4,48,35,240,0,0,Rotina
+23,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+24,Arroz 1kg,Mercearia,Centro,87,7.2,5.4,48,35,240,0,0,Rotina
+24,Arroz 1kg,Mercearia,Bairro,61,7.2,5.4,48,35,240,0,0,Rotina
+24,Arroz 1kg,Mercearia,Delivery,33,7.2,5.4,48,35,240,0,0,Rotina
+25,Arroz 1kg,Mercearia,Centro,81,7.2,5.4,48,35,240,0,0,Rotina
+25,Arroz 1kg,Mercearia,Bairro,57,7.2,5.4,48,35,240,0,0,Rotina
+25,Arroz 1kg,Mercearia,Delivery,30,7.2,5.4,48,35,240,0,0,Rotina
+26,Arroz 1kg,Mercearia,Centro,93,7.2,5.4,48,35,240,0,1,Festa junina
+26,Arroz 1kg,Mercearia,Bairro,66,7.2,5.4,48,35,240,0,1,Festa junina
+26,Arroz 1kg,Mercearia,Delivery,35,7.2,5.4,48,35,240,0,1,Festa junina
+1,Água mineral,Bebidas,Centro,147,3.0,1.45,90,60,450,0,0,Rotina
+1,Água mineral,Bebidas,Bairro,104,3.0,1.45,90,60,450,0,0,Rotina
+1,Água mineral,Bebidas,Delivery,55,3.0,1.45,90,60,450,0,0,Rotina
+2,Água mineral,Bebidas,Centro,145,3.0,1.45,90,60,450,0,0,Rotina
+2,Água mineral,Bebidas,Bairro,103,3.0,1.45,90,60,450,0,0,Rotina
+2,Água mineral,Bebidas,Delivery,54,3.0,1.45,90,60,450,0,0,Rotina
+3,Água mineral,Bebidas,Centro,143,3.0,1.45,90,60,450,0,0,Rotina
+3,Água mineral,Bebidas,Bairro,101,3.0,1.45,90,60,450,0,0,Rotina
+3,Água mineral,Bebidas,Delivery,54,3.0,1.45,90,60,450,0,0,Rotina
+4,Água mineral,Bebidas,Centro,183,3.0,1.45,90,60,450,1,0,Promoção de inauguração
+4,Água mineral,Bebidas,Bairro,129,3.0,1.45,90,60,450,1,0,Promoção de inauguração
+4,Água mineral,Bebidas,Delivery,68,3.0,1.45,90,60,450,1,0,Promoção de inauguração
+5,Água mineral,Bebidas,Centro,144,3.0,1.45,90,60,450,0,0,Rotina
+5,Água mineral,Bebidas,Bairro,102,3.0,1.45,90,60,450,0,0,Rotina
+5,Água mineral,Bebidas,Delivery,54,3.0,1.45,90,60,450,0,0,Rotina
+6,Água mineral,Bebidas,Centro,150,3.0,1.45,90,60,450,0,0,Rotina
+6,Água mineral,Bebidas,Bairro,106,3.0,1.45,90,60,450,0,0,Rotina
+6,Água mineral,Bebidas,Delivery,56,3.0,1.45,90,60,450,0,0,Rotina
+7,Água mineral,Bebidas,Centro,148,3.0,1.45,90,60,450,0,0,Rotina
+7,Água mineral,Bebidas,Bairro,105,3.0,1.45,90,60,450,0,0,Rotina
+7,Água mineral,Bebidas,Delivery,55,3.0,1.45,90,60,450,0,0,Rotina
+8,Água mineral,Bebidas,Centro,179,3.0,1.45,90,60,450,0,1,Feriado local
+8,Água mineral,Bebidas,Bairro,127,3.0,1.45,90,60,450,0,1,Feriado local
+8,Água mineral,Bebidas,Delivery,67,3.0,1.45,90,60,450,0,1,Feriado local
+9,Água mineral,Bebidas,Centro,157,3.0,1.45,90,60,450,0,0,Rotina
+9,Água mineral,Bebidas,Bairro,111,3.0,1.45,90,60,450,0,0,Rotina
+9,Água mineral,Bebidas,Delivery,59,3.0,1.45,90,60,450,0,0,Rotina
+10,Água mineral,Bebidas,Centro,147,3.0,1.45,90,60,450,0,0,Rotina
+10,Água mineral,Bebidas,Bairro,104,3.0,1.45,90,60,450,0,0,Rotina
+10,Água mineral,Bebidas,Delivery,55,3.0,1.45,90,60,450,0,0,Rotina
+11,Água mineral,Bebidas,Centro,153,3.0,1.45,90,60,450,0,0,Rotina
+11,Água mineral,Bebidas,Bairro,108,3.0,1.45,90,60,450,0,0,Rotina
+11,Água mineral,Bebidas,Delivery,57,3.0,1.45,90,60,450,0,0,Rotina
+12,Água mineral,Bebidas,Centro,182,3.0,1.45,90,60,450,0,0,Evento escolar
+12,Água mineral,Bebidas,Bairro,129,3.0,1.45,90,60,450,0,0,Evento escolar
+12,Água mineral,Bebidas,Delivery,68,3.0,1.45,90,60,450,0,0,Evento escolar
+13,Água mineral,Bebidas,Centro,148,3.0,1.45,90,60,450,0,0,Rotina
+13,Água mineral,Bebidas,Bairro,105,3.0,1.45,90,60,450,0,0,Rotina
+13,Água mineral,Bebidas,Delivery,56,3.0,1.45,90,60,450,0,0,Rotina
+14,Água mineral,Bebidas,Centro,160,3.0,1.45,90,60,450,0,0,Rotina
+14,Água mineral,Bebidas,Bairro,113,3.0,1.45,90,60,450,0,0,Rotina
+14,Água mineral,Bebidas,Delivery,60,3.0,1.45,90,60,450,0,0,Rotina
+15,Água mineral,Bebidas,Centro,150,3.0,1.45,90,60,450,0,0,Rotina
+15,Água mineral,Bebidas,Bairro,106,3.0,1.45,90,60,450,0,0,Rotina
+15,Água mineral,Bebidas,Delivery,56,3.0,1.45,90,60,450,0,0,Rotina
+16,Água mineral,Bebidas,Centro,171,3.0,1.45,90,60,450,0,0,Rotina
+16,Água mineral,Bebidas,Bairro,121,3.0,1.45,90,60,450,0,0,Rotina
+16,Água mineral,Bebidas,Delivery,64,3.0,1.45,90,60,450,0,0,Rotina
+17,Água mineral,Bebidas,Centro,153,3.0,1.45,90,60,450,0,0,Rotina
+17,Água mineral,Bebidas,Bairro,108,3.0,1.45,90,60,450,0,0,Rotina
+17,Água mineral,Bebidas,Delivery,57,3.0,1.45,90,60,450,0,0,Rotina
+18,Água mineral,Bebidas,Centro,195,3.0,1.45,90,60,450,1,0,Promoção relâmpago
+18,Água mineral,Bebidas,Bairro,138,3.0,1.45,90,60,450,1,0,Promoção relâmpago
+18,Água mineral,Bebidas,Delivery,73,3.0,1.45,90,60,450,1,0,Promoção relâmpago
+19,Água mineral,Bebidas,Centro,163,3.0,1.45,90,60,450,0,0,Rotina
+19,Água mineral,Bebidas,Bairro,115,3.0,1.45,90,60,450,0,0,Rotina
+19,Água mineral,Bebidas,Delivery,61,3.0,1.45,90,60,450,0,0,Rotina
+20,Água mineral,Bebidas,Centro,168,3.0,1.45,90,60,450,0,0,Rotina
+20,Água mineral,Bebidas,Bairro,119,3.0,1.45,90,60,450,0,0,Rotina
+20,Água mineral,Bebidas,Delivery,63,3.0,1.45,90,60,450,0,0,Rotina
+21,Água mineral,Bebidas,Centro,158,3.0,1.45,90,60,450,0,0,Rotina
+21,Água mineral,Bebidas,Bairro,112,3.0,1.45,90,60,450,0,0,Rotina
+21,Água mineral,Bebidas,Delivery,59,3.0,1.45,90,60,450,0,0,Rotina
+22,Água mineral,Bebidas,Centro,156,3.0,1.45,90,60,450,0,0,Semana de pagamento
+22,Água mineral,Bebidas,Bairro,110,3.0,1.45,90,60,450,0,0,Semana de pagamento
+22,Água mineral,Bebidas,Delivery,58,3.0,1.45,90,60,450,0,0,Semana de pagamento
+23,Água mineral,Bebidas,Centro,168,3.0,1.45,90,60,450,0,0,Rotina
+23,Água mineral,Bebidas,Bairro,119,3.0,1.45,90,60,450,0,0,Rotina
+23,Água mineral,Bebidas,Delivery,63,3.0,1.45,90,60,450,0,0,Rotina
+24,Água mineral,Bebidas,Centro,182,3.0,1.45,90,60,450,0,0,Rotina
+24,Água mineral,Bebidas,Bairro,129,3.0,1.45,90,60,450,0,0,Rotina
+24,Água mineral,Bebidas,Delivery,68,3.0,1.45,90,60,450,0,0,Rotina
+25,Água mineral,Bebidas,Centro,155,3.0,1.45,90,60,450,0,0,Rotina
+25,Água mineral,Bebidas,Bairro,110,3.0,1.45,90,60,450,0,0,Rotina
+25,Água mineral,Bebidas,Delivery,58,3.0,1.45,90,60,450,0,0,Rotina
+26,Água mineral,Bebidas,Centro,180,3.0,1.45,90,60,450,0,1,Festa junina
+26,Água mineral,Bebidas,Bairro,127,3.0,1.45,90,60,450,0,1,Festa junina
+26,Água mineral,Bebidas,Delivery,67,3.0,1.45,90,60,450,0,1,Festa junina
