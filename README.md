@@ -62,7 +62,6 @@ Auxiliar empresas no:
 
 ## 📱 Responsividade
 - Desktop
-- Mobile
 - Interface otimizada
 
 ---
